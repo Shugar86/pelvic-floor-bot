@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --teal-brand: #21D4B0;
+  --teal-dark: #22C0A0;
+  --gray-bg: #F5F4F6;
+  --gray-card: #EEEEF4;
+  --gray-text: #444445;
+  --gray-muted: #A1A1AE;
+}
+
+body {
+  background-color: var(--gray-bg);
+  color: var(--gray-text);
+}

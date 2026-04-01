@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.env
+
+# Node
+node_modules/
+.next/
+.vercel/
+
+# Env
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# PDF рабочие файлы
+pdf/*.pdf
+!pdf/README.md
